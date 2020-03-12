@@ -1,0 +1,17 @@
+{
+  "name": "bib",
+  "version": "1.0.0",
+  "description": "Maitre restaurateur X Bib gourmand",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anne TRAN",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "puppeteer": "^2.1.1"
+  }
+}
